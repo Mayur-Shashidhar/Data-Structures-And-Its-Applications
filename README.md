@@ -4,7 +4,7 @@ Welcome to the **Data Structures And Its Applications** repository!
 
 ## Overview
 
-This repository is focused on the implementation of various data structures using the C programming language. It is intended to provide practical examples and applications of fundamental data structures, making it an excellent resource for students, educators, and anyone seeking to strengthen their understanding of data structures in C.
+This repository is focused on the implementation of various data structures using the C programming language. It is intended to provide practical examples and applications of fundamental data structures, making it an excellent resource for students, educators and anyone seeking to strengthen their understanding of data structures in C.
 
 ## Features
 
